@@ -5,9 +5,9 @@ class script(object):
 ɪ  ᴄᴀɴ  ᴘʀᴏᴠɪᴅᴇ  ᴍᴏᴠɪᴇs  ᴀɴᴅ  sᴇʀɪᴇs,
 ᴊᴜsᴛ  ᴀᴅᴅ  ᴍᴇ  ᴛᴏ  ʏᴏᴜʀ  ɢʀᴏᴜᴘ  ᴀɴᴅ  ᴇɴᴊᴏʏ  😍
 
-💞 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/MovieVillaYT'>ᴍᴏᴠɪᴇ ᴠɪʟʟᴀ</a></b>
+💞 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Anna_movies2'>Anna 2.0</a></b>
 """
-    NOBI = """
+    Anna = """
 <b>{} 🙋‍♂
 
 🔺 ᴍʏ ɴᴀᴍᴇ - ʀᴀʜᴜʟ
